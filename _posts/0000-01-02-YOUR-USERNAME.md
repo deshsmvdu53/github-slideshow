@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-I'm Your Lover
+I'm Your Lover!
 Use the left arrow to go back!
